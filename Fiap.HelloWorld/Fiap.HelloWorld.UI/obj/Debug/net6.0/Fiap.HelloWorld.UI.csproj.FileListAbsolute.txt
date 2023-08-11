@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\bin\Debug\net6.0\Fiap.HelloWorld.UI.exe
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\bin\Debug\net6.0\Fiap.HelloWorld.UI.deps.json
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\bin\Debug\net6.0\Fiap.HelloWorld.UI.runtimeconfig.json
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\bin\Debug\net6.0\Fiap.HelloWorld.UI.dll
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\bin\Debug\net6.0\Fiap.HelloWorld.UI.pdb
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.AssemblyInfo.cs
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.dll
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\refint\Fiap.HelloWorld.UI.dll
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.pdb
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\Fiap.HelloWorld.UI.genruntimeconfig.cache
+C:\Users\User\Desktop\2ADS\Enterprise\2semestre\Fiap.HelloWorld\Fiap.HelloWorld.UI\obj\Debug\net6.0\ref\Fiap.HelloWorld.UI.dll
